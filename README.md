@@ -4,8 +4,16 @@
 
 ## installation
 
+### for linux
+
 ```shell script
-/bin/bash -c "$(curl -sSL https://raw.githubusercontent.com/103cuong/greeting_cli/master/install.sh)"
+/bin/bash -c "$(curl -sSL https://raw.githubusercontent.com/103cuong/greeting_cli/master/install_linux.sh)"
+```
+
+### for macos
+
+```shell script
+/bin/bash -c "$(curl -sSL https://raw.githubusercontent.com/103cuong/greeting_cli/master/install_macos.sh)"
 ```
 
 ## usage
